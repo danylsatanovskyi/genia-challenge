@@ -28,7 +28,7 @@ All features run locally via the command line.
 ## Installation
 
 ```bash
-git clone https://github.com/danylsatanovskyi/genia-ai-challenge.git
+git clone https://github.com/danylsatanovskyi/genia-challenge.git
 cd YOUR_REPO_NAME
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
