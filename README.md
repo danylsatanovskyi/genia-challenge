@@ -31,8 +31,7 @@ All features run locally via the command line.
 git clone https://github.com/danylsatanovskyi/genia-challenge.git
 cd genia-challenge
 python -m venv .venv
-source .venv/bin/activate  # macOS/Linux
-.venv\Scripts\activate   # Windows
+source .venv/Scripts/activate 
 pip install -r requirements.txt
 ```
 
