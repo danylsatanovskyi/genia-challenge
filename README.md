@@ -96,6 +96,7 @@ Target language (e.g., English, French, Spanish): french
 
 Enter the text you want to translate.
 i love you
+so much
 DONE
 ```
 
@@ -104,7 +105,7 @@ DONE
 ------------------------------------------------------------
 TRANSLATION
 ------------------------------------------------------------
-je t'aime
+je t'aime beaucoup
 ------------------------------------------------------------
 ```
 
@@ -225,6 +226,7 @@ Talk about what's on your mind. Type DONE to send a message.
 Type QUIT on a new line to end the session.
 
 ive been overwhelmed with school
+i feel very tired
 DONE
 ```
 
@@ -319,6 +321,8 @@ You're given an array of integers `nums` and an integer `k`. Return the `k` most
 ```
 Your answer:
 i dont know...
+i didnt study
+ughhh
 DONE
 ```
 
@@ -354,6 +358,8 @@ Type QUIT to end the debate.
 
 Your initial claim:
 messi is the best soccer player in the world
+He beats everybody!!
+!!!!
 DONE
 ```
 
