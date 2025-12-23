@@ -69,8 +69,8 @@ python assistant.py
 Choose an option: 1
 Paste code to explain.
 Enter snippet.
-for i in range(5):
-    print(i)
+**for i in range(5):
+    print(i)**
 DONE
 ```
 
